@@ -1,4 +1,4 @@
-# kotlin-jdbc-setup
+# Kotlin JDBC Setup
 Simple jdbc Kotlin setup project for future references
 
 Dependencies:
